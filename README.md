@@ -201,4 +201,4 @@ Uninstall by going to Site Administration > Plugins > Plugins Overview and using
 Contact
 =======
 Nicholas Yang\
-http://nyanginator.wixsite.com/home
+https://nicky.pairsite.com
